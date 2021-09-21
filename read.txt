@@ -1,2 +1,2 @@
-git is a version.
+git is a distributed version.
 你好像看着有点累了
